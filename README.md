@@ -36,13 +36,6 @@ The demo runs on a sanitized dataset with fictional companies and employees. Aut
   <br><em>Session Detail — Participant list with enrollment management</em>
 </p>
 
-Tips:
-  - Use your demo (not production) to avoid exposing real data
-  - Crop browser chrome / bookmarks bar out
-  - Keep them consistent (same window size)
-  - Dark/light mode: pick one and stick with it
--->
-
 ## About
 
 This system was built in-house to replace manual training tracking processes and fill functional gaps in an existing HRIS. It is currently in production use, managing training operations across multiple countries and entities.
