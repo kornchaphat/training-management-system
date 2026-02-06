@@ -19,25 +19,22 @@ The demo runs on a sanitized dataset with fictional companies and employees. Aut
 
 ## Screenshots
 
-![Dashboard](https://github.com/kornchaphat/training-management-system/blob/03aefcca0633538f8aacbb71db9897563e79ec93/Screenshot%202026-02-06%20230722.png)
-![Calendar View](screenshots/calendar.png)
-![Training Analytics](screenshots/analytics.png)
-![QR Attendance](screenshots/qr-attendance.png)
-![Session Detail](screenshots/session-detail.png)
-
-<!-- 
-HOW TO ADD SCREENSHOTS:
-1. Take screenshots of each feature in your demo
-2. Create a "screenshots" folder in your repo
-3. Add the images there (PNG recommended, ~1200px wide)
-4. The image references above will work automatically
-
-Recommended screenshots:
-  - dashboard.png       → Main dashboard with session cards and calendar
-  - calendar.png        → Calendar view showing sessions across months
-  - analytics.png       → Training Analytics with KPIs and charts
-  - qr-attendance.png   → QR scanning / attendance tracking view
-  - session-detail.png  → Session detail with participant list
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kornchaphat/training-management-system/main/Screenshot%202026-02-06%20230722.png" width="700" alt="Dashboard">
+  <br><em>Training Calendar — Dashboard with session cards and monthly overview</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kornchaphat/training-management-system/main/Screenshot%202026-02-06%20230844.png" width="700" alt="Training Analytics">
+  <br><em>Training Analytics — KPIs, charts, and filterable breakdowns</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kornchaphat/training-management-system/main/Screenshot%202026-02-06%20230950.png" width="700" alt="QR Attendance">
+  <br><em>QR Attendance — Camera-based check-in with real-time scanning</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kornchaphat/training-management-system/main/Screenshot%202026-02-06%20232336.png" width="700" alt="Session Detail">
+  <br><em>Session Detail — Participant list with enrollment management</em>
+</p>
 
 Tips:
   - Use your demo (not production) to avoid exposing real data
