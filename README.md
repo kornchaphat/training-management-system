@@ -19,7 +19,7 @@ The demo runs on a sanitized dataset with fictional companies and employees. Aut
 
 ## Screenshots
 
-![Dashboard](Screenshot 2026-02-06 230722.png)
+![Dashboard](https://github.com/kornchaphat/training-management-system/blob/03aefcca0633538f8aacbb71db9897563e79ec93/Screenshot%202026-02-06%20230722.png)
 ![Calendar View](screenshots/calendar.png)
 ![Training Analytics](screenshots/analytics.png)
 ![QR Attendance](screenshots/qr-attendance.png)
