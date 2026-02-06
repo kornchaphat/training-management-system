@@ -79,7 +79,7 @@ This system was built in-house to replace manual training tracking processes and
 
 ## Author
 
-Built by [Kornchaphat Piyatakoolkan](https://www.linkedin.com/in/YOUR-HANDLE) — Senior HRIS Specialist building tools that make HR teams faster.
+Built by [Kornchaphat Piyatakoolkan](https://www.linkedin.com/in/kornchaphat)
 
 ## License
 
