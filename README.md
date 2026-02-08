@@ -167,6 +167,3 @@ Built by **Kornchaphat Piyatakoolkan**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kornchaphat)
 
-## License
-
-MIT
